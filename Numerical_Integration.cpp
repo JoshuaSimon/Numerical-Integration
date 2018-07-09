@@ -1,4 +1,8 @@
 /* Numerical_Integration.cpp */
+/* -------------------------------------------
+	Created by Joshua Simon.
+	Date: 09.07.2018
+*/ -------------------------------------------
 #include <iostream>
 #include <cmath>
 using namespace std;
