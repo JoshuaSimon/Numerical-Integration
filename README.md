@@ -1,5 +1,5 @@
 # Numerical-Integration
-C++ functions for numerical integration.
+Implementation for numerical integration in different languages.
 
 [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
