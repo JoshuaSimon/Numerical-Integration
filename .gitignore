@@ -32,3 +32,8 @@
 *.exe
 *.out
 *.app
+
+# Scala stuff
+*.class
+*.tasty
+.metals
